@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Seoul National University
+subtitle: seungjoonoh@snu.ac.kr
 
 # profile:
 #  align: right
